@@ -47,3 +47,10 @@ And in this file, search for USE_STYLE (it should be USE_STYLE="DEFAULT" by defa
 In this file you can change many other settings but if you don't know what they do, only change the style. Then, save the file, log out and log back in to see the changes.
 
 # SCREENSHIT!
+
+![BEFORE](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/BEFORE.png "BEFORE")
+![BEFORE2](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/BEFORE-2.png "BEFORE-2")
+![AFTER](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/AFTER.png "AFTER")
+![AFTER2](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/AFTER-2.png "AFTER-2")
+![SETTINGS](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/INFINALITY-XFCE-SETTINGS.png "SETTINGS")
+![SETTINGS2](https://github.com/nullrndtx/Infinality-Debian-Jessie/blob/master/INFINALITY-SETTINGS-2.png "SETTINGS-2")
